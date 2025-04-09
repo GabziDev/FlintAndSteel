@@ -1,6 +1,6 @@
 {
-    "name": "Flint and Steel",
-    "symbol": "FAS",
-    "description": "Minecraft Item",
-    "image": "https://raw.githubusercontent.com/GabziDev/FlintAndSteel/main/flint_and_steel.png"
-  }
+  "name": "Flint and Steel",
+  "symbol": "FAS",
+  "description": "Minecraft Item",
+  "image": "https://raw.githubusercontent.com/GabziDev/FlintAndSteel/main/flint_and_steel.png"
+}
